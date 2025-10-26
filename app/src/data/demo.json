@@ -1,0 +1,762 @@
+{
+  "globalImpact": {
+    "co2Saved": 12500,
+    "waterTreated": 425,
+    "jobsCreated": 1847,
+    "energyGenerated": 8500
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "Washington Bridge Rehabilitation",
+      "description": "Complete structural rehabilitation of the historic Washington Bridge connecting Providence and East Providence. This critical infrastructure project includes steel reinforcement, full deck replacement, and advanced seismic retrofitting to ensure 50+ years of continued service for 45,000+ daily commuters. The project preserves historic architectural elements while upgrading to modern safety standards.",
+      "owner": "GCVXQZ7NJMZTLCWVYP4VJRHQXMQD7WPRQK4HZSYMGNLDRQ",
+      "total_budget": "8500000",
+      "released_funds": "4250000",
+      "active": true,
+      "category": "Bridge",
+      "location": "Providence, Rhode Island",
+      "start_date": "2024-03-01",
+      "team": [
+        {
+          "role": "Project Manager",
+          "name": "Robert Williams",
+          "credentials": "PMP, Bridge Construction Specialist",
+          "walletAddress": "GCVXQZ7NJMZTLCWVYP4VJRHQXMQD7WPRQK4HZSYMGNLDRQ",
+          "email": "r.williams@provynce.gov",
+          "avatar": "https://i.pravatar.cc/150?img=13"
+        },
+        {
+          "role": "Lead Structural Engineer",
+          "name": "Dr. Emily Rodriguez",
+          "credentials": "PE, SE - Seismic Design Expert",
+          "walletAddress": "GERZNJMZTLCWVYP4VJRHQXMQD7WPRQK4HZSYMGNLDRQCVXQ",
+          "email": "e.rodriguez@bridge-eng.com",
+          "avatar": "https://i.pravatar.cc/150?img=47"
+        },
+        {
+          "role": "Bridge Architect",
+          "name": "David Park",
+          "credentials": "AIA, Historic Preservation Specialist",
+          "walletAddress": "GDPKMZTLCWVYP4VJRHQXMQD7WPRQK4HZSYMGNLDRQCVXQZ7",
+          "email": "d.park@heritage-design.com",
+          "avatar": "https://i.pravatar.cc/150?img=33"
+        },
+        {
+          "role": "General Contractor",
+          "name": "Ironworks Bridge Builders Inc",
+          "credentials": "Licensed Specialty Contractor #IB-4521",
+          "walletAddress": "GIBWMZTLCWVYP4VJRHQXMQD7WPRQK4HZSYMGNLDRQCVXQZ7",
+          "email": "info@ironworks-builders.com",
+          "avatar": "https://i.pravatar.cc/150?img=61"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "/images/projects/bridge-construction-1.png",
+          "caption": "Bridge structural assessment and planning phase",
+          "uploadedBy": "Dr. Emily Rodriguez",
+          "date": "2024-04-15"
+        },
+        {
+          "url": "/images/projects/bridge-construction-2.png",
+          "caption": "Temporary support structure installation in progress",
+          "uploadedBy": "Ironworks Bridge Builders Inc",
+          "date": "2024-06-20"
+        },
+        {
+          "url": "/images/projects/bridge-construction-3.png",
+          "caption": "Steel reinforcement and seismic upgrade work",
+          "uploadedBy": "David Park",
+          "date": "2024-09-10"
+        },
+        {
+          "url": "/images/projects/bridge-construction-4.png",
+          "caption": "Bridge deck replacement - detailed view",
+          "uploadedBy": "Robert Williams",
+          "date": "2024-10-15"
+        },
+        {
+          "url": "/images/projects/bridge-detail-1.jpg",
+          "caption": "Architectural detail - bridge support column",
+          "uploadedBy": "David Park",
+          "date": "2024-09-05"
+        },
+        {
+          "url": "/images/projects/bridge-detail-2.jpg",
+          "caption": "Engineering specifications and measurements",
+          "uploadedBy": "Dr. Emily Rodriguez",
+          "date": "2024-08-20"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 1,
+          "project_id": 1,
+          "description": "Structural Assessment and Engineering Design",
+          "amount": "750000",
+          "verifications_required": 2,
+          "verifications_received": 2,
+          "completed": true,
+          "target_date": "2024-04-15",
+          "proof_url": "https://example.com/proof/1"
+        },
+        {
+          "id": 2,
+          "project_id": 1,
+          "description": "Temporary Support Structure Installation",
+          "amount": "1500000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2024-06-30",
+          "proof_url": "https://example.com/proof/2"
+        },
+        {
+          "id": 3,
+          "project_id": 1,
+          "description": "Steel Reinforcement and Seismic Upgrades",
+          "amount": "2000000",
+          "verifications_required": 3,
+          "verifications_received": 2,
+          "completed": false,
+          "target_date": "2024-09-15",
+          "proof_url": "https://example.com/proof/3"
+        },
+        {
+          "id": 4,
+          "project_id": 1,
+          "description": "Bridge Deck Replacement",
+          "amount": "2500000",
+          "verifications_required": 3,
+          "verifications_received": 1,
+          "completed": false,
+          "target_date": "2024-10-20"
+        },
+        {
+          "id": 5,
+          "project_id": 1,
+          "description": "Final Painting and Protective Coating",
+          "amount": "1000000",
+          "verifications_required": 2,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-02-28"
+        },
+        {
+          "id": 6,
+          "project_id": 1,
+          "description": "Load Testing and Safety Certification",
+          "amount": "750000",
+          "verifications_required": 3,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-03-31"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Solar Community Energy Network",
+      "description": "Installation of distributed solar energy infrastructure across 500 municipal buildings (schools, libraries, fire stations, and government offices), creating a decentralized renewable energy network. This innovative project features smart grid integration, 15 MWh battery storage capabilities, and is projected to reduce the city's carbon emissions by 8,500 tons annually while generating enough clean energy to power 2,500 homes. Community members can track real-time energy production through our public dashboard.",
+      "owner": "GSENAPQHPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMG",
+      "total_budget": "15000000",
+      "released_funds": "9000000",
+      "active": true,
+      "category": "Renewable Energy",
+      "location": "Boston, Massachusetts",
+      "start_date": "2024-01-10",
+      "team": [
+        {
+          "role": "Project Manager",
+          "name": "Maya Patel",
+          "credentials": "PMP, Renewable Energy Systems",
+          "walletAddress": "GSENAPQHPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMG",
+          "email": "m.patel@provynce.gov",
+          "avatar": "https://i.pravatar.cc/150?img=9"
+        },
+        {
+          "role": "Solar Systems Engineer",
+          "name": "Dr. James Chen",
+          "credentials": "PE, PhD Renewable Energy Engineering",
+          "walletAddress": "GJCHPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGSEN",
+          "email": "j.chen@solar-systems.com",
+          "avatar": "https://i.pravatar.cc/150?img=12"
+        },
+        {
+          "role": "Energy Systems Architect",
+          "name": "Sofia Martinez",
+          "credentials": "LEED AP, Smart Grid Specialist",
+          "walletAddress": "GSMHPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGSEN",
+          "email": "s.martinez@green-architecture.com",
+          "avatar": "https://i.pravatar.cc/150?img=20"
+        },
+        {
+          "role": "General Contractor",
+          "name": "SunBuild Energy Solutions",
+          "credentials": "Solar Installation Contractor #SB-7722",
+          "walletAddress": "GSBHPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGSEN",
+          "email": "contracts@sunbuild.com",
+          "avatar": "https://i.pravatar.cc/150?img=62"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80",
+          "caption": "Solar panel installation on municipal library rooftop",
+          "uploadedBy": "Dr. James Chen",
+          "date": "2024-03-15"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?w=800&q=80",
+          "caption": "Array of solar panels on school building - Phase 1 completion",
+          "uploadedBy": "SunBuild Energy Solutions",
+          "date": "2024-05-28"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?w=800&q=80",
+          "caption": "Smart grid monitoring system - real-time energy production dashboard",
+          "uploadedBy": "Sofia Martinez",
+          "date": "2024-08-10"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?w=800&q=80",
+          "caption": "Battery storage facility installation in progress",
+          "uploadedBy": "Maya Patel",
+          "date": "2024-09-20"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&q=80",
+          "caption": "Aerial view of community center with completed solar array",
+          "uploadedBy": "SunBuild Energy Solutions",
+          "date": "2024-10-05"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80",
+          "caption": "Technical specifications and energy output analytics",
+          "uploadedBy": "Dr. James Chen",
+          "date": "2024-10-18"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 7,
+          "project_id": 2,
+          "description": "Solar Panel Procurement and Site Assessment",
+          "amount": "2000000",
+          "verifications_required": 2,
+          "verifications_received": 2,
+          "completed": true,
+          "target_date": "2024-02-28",
+          "proof_url": "https://example.com/proof/7"
+        },
+        {
+          "id": 8,
+          "project_id": 2,
+          "description": "Phase 1: 200 Buildings - Solar Installation",
+          "amount": "4000000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2024-05-31",
+          "proof_url": "https://example.com/proof/8"
+        },
+        {
+          "id": 9,
+          "project_id": 2,
+          "description": "Smart Grid Integration and Monitoring Systems",
+          "amount": "3000000",
+          "verifications_required": 2,
+          "verifications_received": 2,
+          "completed": true,
+          "target_date": "2024-08-15",
+          "proof_url": "https://example.com/proof/9"
+        },
+        {
+          "id": 10,
+          "project_id": 2,
+          "description": "Phase 2: 200 Buildings - Solar Installation",
+          "amount": "4000000",
+          "verifications_required": 3,
+          "verifications_received": 2,
+          "completed": false,
+          "target_date": "2024-11-30"
+        },
+        {
+          "id": 11,
+          "project_id": 2,
+          "description": "Battery Storage System Deployment",
+          "amount": "1500000",
+          "verifications_required": 2,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-01-31"
+        },
+        {
+          "id": 12,
+          "project_id": 2,
+          "description": "Phase 3: Final 100 Buildings and Testing",
+          "amount": "500000",
+          "verifications_required": 3,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-03-15"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Green Infrastructure Bonds - Urban Forest Initiative",
+      "description": "Large-scale urban greening project funded through green bonds, transforming 50 neighborhoods with climate-resilient infrastructure. This comprehensive initiative plants 10,000 native trees, installs 200+ bioswales for stormwater management, creates 30 green roofs (reducing building cooling costs by 25%), and deploys an urban heat island monitoring network. The project will absorb 425 tons of CO2 annually, reduce stormwater runoff by 40%, and create 150+ green jobs. Residents can adopt and name trees through our community engagement program.",
+      "owner": "GGIBDXMQ7WPRHQXMQD7WPRQK4HZSYMGNLDRQVPCCVWP7LJ",
+      "total_budget": "6500000",
+      "released_funds": "3250000",
+      "active": true,
+      "category": "Green Infrastructure",
+      "location": "Newport, Rhode Island",
+      "start_date": "2024-04-01",
+      "team": [
+        {
+          "role": "Project Manager",
+          "name": "Alexandra Green",
+          "credentials": "PMP, Environmental Project Management",
+          "walletAddress": "GGIBDXMQ7WPRHQXMQD7WPRQK4HZSYMGNLDRQVPCCVWP7LJ",
+          "email": "a.green@provynce.gov",
+          "avatar": "https://i.pravatar.cc/150?img=10"
+        },
+        {
+          "role": "Environmental Engineer",
+          "name": "Carlos Rivera",
+          "credentials": "PE, Ecological Engineering",
+          "walletAddress": "GCRWPRHQXMQD7WPRQK4HZSYMGNLDRQVPCCVWP7LJGGIBDXM",
+          "email": "c.rivera@eco-systems.com",
+          "avatar": "https://i.pravatar.cc/150?img=68"
+        },
+        {
+          "role": "Landscape Architect",
+          "name": "Lisa Wong",
+          "credentials": "ASLA, Urban Forestry Specialist",
+          "walletAddress": "GLWWPRHQXMQD7WPRQK4HZSYMGNLDRQVPCCVWP7LJGGIBDXM",
+          "email": "l.wong@urban-green.com",
+          "avatar": "https://i.pravatar.cc/150?img=24"
+        },
+        {
+          "role": "General Contractor",
+          "name": "EcoScape Urban Solutions",
+          "credentials": "Green Infrastructure Contractor #ES-9988",
+          "walletAddress": "GESWPRHQXMQD7WPRQK4HZSYMGNLDRQVPCCVWP7LJGGIBDXM",
+          "email": "info@ecoscape.com",
+          "avatar": "https://i.pravatar.cc/150?img=63"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80",
+          "caption": "Native tree planting in neighborhood park - spring 2024",
+          "uploadedBy": "Lisa Wong",
+          "date": "2024-05-20"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&q=80",
+          "caption": "Community volunteers helping with tree planting initiative",
+          "uploadedBy": "Alexandra Green",
+          "date": "2024-06-08"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&q=80",
+          "caption": "Bioswale installation for natural stormwater management",
+          "uploadedBy": "Carlos Rivera",
+          "date": "2024-08-15"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80",
+          "caption": "Rain garden with native plants - completed installation",
+          "uploadedBy": "EcoScape Urban Solutions",
+          "date": "2024-09-22"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+          "caption": "Green roof installation on city library - vegetation layer",
+          "uploadedBy": "Lisa Wong",
+          "date": "2024-10-12"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1583255449036-8c181b308880?w=800&q=80",
+          "caption": "Urban forest canopy - monitoring growth and health metrics",
+          "uploadedBy": "Carlos Rivera",
+          "date": "2024-10-25"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 13,
+          "project_id": 3,
+          "description": "Site Analysis and Green Infrastructure Planning",
+          "amount": "500000",
+          "verifications_required": 2,
+          "verifications_received": 2,
+          "completed": true,
+          "target_date": "2024-05-15",
+          "proof_url": "https://example.com/proof/13"
+        },
+        {
+          "id": 14,
+          "project_id": 3,
+          "description": "Tree Planting - 10,000 Trees in 20 Neighborhoods",
+          "amount": "1500000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2024-08-30",
+          "proof_url": "https://example.com/proof/14"
+        },
+        {
+          "id": 15,
+          "project_id": 3,
+          "description": "Bioswale and Rain Garden Installation",
+          "amount": "1250000",
+          "verifications_required": 2,
+          "verifications_received": 2,
+          "completed": true,
+          "target_date": "2024-10-31"
+        },
+        {
+          "id": 16,
+          "project_id": 3,
+          "description": "Green Roof Installations - 30 Buildings",
+          "amount": "2000000",
+          "verifications_required": 3,
+          "verifications_received": 1,
+          "completed": false,
+          "target_date": "2024-12-15"
+        },
+        {
+          "id": 17,
+          "project_id": 3,
+          "description": "Urban Heat Island Monitoring System",
+          "amount": "750000",
+          "verifications_required": 2,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-02-28"
+        },
+        {
+          "id": 18,
+          "project_id": 3,
+          "description": "Community Education and Maintenance Programs",
+          "amount": "500000",
+          "verifications_required": 2,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-04-30"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smart Water Distribution Modernization",
+      "description": "Comprehensive modernization of the municipal water distribution system serving 125,000 residents. This smart infrastructure upgrade includes 50,000 IoT-enabled smart meters for real-time consumption tracking, AI-powered leak detection sensors reducing water loss by 30%, automated pressure management preventing pipe bursts, and 24/7 water quality monitoring stations. The project saves an estimated 425 million gallons of water annually (enough to fill 650 Olympic swimming pools), reduces emergency repairs by 60%, and provides residents with a mobile app to track their water usage and receive leak alerts.",
+      "owner": "GSWDVPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGNLD",
+      "total_budget": "10000000",
+      "released_funds": "5000000",
+      "active": true,
+      "category": "Water",
+      "location": "Warwick, Rhode Island",
+      "start_date": "2024-02-15",
+      "team": [
+        {
+          "role": "Project Manager",
+          "name": "Marcus Thompson",
+          "credentials": "PMP, Water Infrastructure Specialist",
+          "walletAddress": "GSWDVPCCVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGNLD",
+          "email": "m.thompson@provynce.gov",
+          "avatar": "https://i.pravatar.cc/150?img=32"
+        },
+        {
+          "role": "Water Systems Engineer",
+          "name": "Dr. Rachel Kim",
+          "credentials": "PE, Water Resources Engineering",
+          "walletAddress": "GRKIVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGNLDSWDVPC",
+          "email": "r.kim@water-systems.com",
+          "avatar": "https://i.pravatar.cc/150?img=48"
+        },
+        {
+          "role": "IoT Systems Architect",
+          "name": "Ahmed Hassan",
+          "credentials": "Smart Infrastructure Systems",
+          "walletAddress": "GAHVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGNLDSWDVPC",
+          "email": "a.hassan@smart-infra.com",
+          "avatar": "https://i.pravatar.cc/150?img=57"
+        },
+        {
+          "role": "General Contractor",
+          "name": "AquaTech Infrastructure",
+          "credentials": "Water Systems Contractor #AT-5544",
+          "walletAddress": "GATVWP7LJQJ4QWLYWVMHQXMQD7WPRQK4HZSYMGNLDSWDVPC",
+          "email": "projects@aquatech.com",
+          "avatar": "https://i.pravatar.cc/150?img=64"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "https://images.unsplash.com/photo-1548337138-e87d889cc369?w=800&q=80",
+          "caption": "Water treatment facility infrastructure assessment",
+          "uploadedBy": "Dr. Rachel Kim",
+          "date": "2024-03-10"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80",
+          "caption": "Smart meter installation - IoT sensor deployment",
+          "uploadedBy": "AquaTech Infrastructure",
+          "date": "2024-06-15"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?w=800&q=80",
+          "caption": "Control room - real-time water distribution monitoring system",
+          "uploadedBy": "Ahmed Hassan",
+          "date": "2024-07-22"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?w=800&q=80",
+          "caption": "Underground pipe inspection using leak detection sensors",
+          "uploadedBy": "Marcus Thompson",
+          "date": "2024-09-08"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80",
+          "caption": "Water quality monitoring station - automated testing equipment",
+          "uploadedBy": "Dr. Rachel Kim",
+          "date": "2024-10-15"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=800&q=80",
+          "caption": "Mobile app dashboard showing real-time water usage analytics",
+          "uploadedBy": "Ahmed Hassan",
+          "date": "2024-10-20"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 19,
+          "project_id": 4,
+          "description": "System Audit and IoT Infrastructure Design",
+          "amount": "800000",
+          "verifications_required": 2,
+          "verifications_received": 2,
+          "completed": true,
+          "target_date": "2024-03-31",
+          "proof_url": "https://example.com/proof/19"
+        },
+        {
+          "id": 20,
+          "project_id": 4,
+          "description": "Smart Meter Installation - 50,000 Units",
+          "amount": "2500000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2024-07-31",
+          "proof_url": "https://example.com/proof/20"
+        },
+        {
+          "id": 21,
+          "project_id": 4,
+          "description": "Leak Detection Sensor Network Deployment",
+          "amount": "1700000",
+          "verifications_required": 2,
+          "verifications_received": 1,
+          "completed": false,
+          "target_date": "2024-09-30"
+        },
+        {
+          "id": 22,
+          "project_id": 4,
+          "description": "Automated Pressure Management System",
+          "amount": "2000000",
+          "verifications_required": 3,
+          "verifications_received": 1,
+          "completed": false,
+          "target_date": "2024-12-31"
+        },
+        {
+          "id": 23,
+          "project_id": 4,
+          "description": "Real-time Water Quality Monitoring Stations",
+          "amount": "1500000",
+          "verifications_required": 2,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-02-28"
+        },
+        {
+          "id": 24,
+          "project_id": 4,
+          "description": "Central Control System and Analytics Platform",
+          "amount": "1500000",
+          "verifications_required": 3,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Metro Line 4 Extension & Station Upgrades",
+      "description": "Major extension of Metro Line 4 adding 5.2 miles of new track and 8 modern stations, connecting underserved neighborhoods to the downtown core. This transformative transit project will serve an estimated 75,000 daily riders, reducing car trips by 12,000/day and cutting commute times by an average of 35 minutes. All stations feature full ADA accessibility (elevators, tactile guidance, audio announcements), rooftop solar panels generating 2 MW of clean energy, real-time arrival displays, and contactless payment systems. The project creates 1,847 construction jobs and will reduce annual CO2 emissions by 12,500 tons while improving air quality in surrounding communities.",
+      "owner": "GML4PRQK4HZSYMGNLDRQVPCCVWP7LJQJ4QWLYWVMHQXMQD",
+      "total_budget": "25000000",
+      "released_funds": "10000000",
+      "active": true,
+      "category": "Public Transit",
+      "location": "Cambridge, Massachusetts",
+      "start_date": "2023-09-01",
+      "team": [
+        {
+          "role": "Project Manager",
+          "name": "Jennifer Lopez",
+          "credentials": "PMP, Transit Infrastructure PM",
+          "walletAddress": "GML4PRQK4HZSYMGNLDRQVPCCVWP7LJQJ4QWLYWVMHQXMQD",
+          "email": "j.lopez@provynce.gov",
+          "avatar": "https://i.pravatar.cc/150?img=28"
+        },
+        {
+          "role": "Transit Systems Engineer",
+          "name": "Dr. Thomas Anderson",
+          "credentials": "PE, Railway Engineering",
+          "walletAddress": "GTAHZSYMGNLDRQVPCCVWP7LJQJ4QWLYWVMHQXMQDML4PRQ",
+          "email": "t.anderson@rail-systems.com",
+          "avatar": "https://i.pravatar.cc/150?img=15"
+        },
+        {
+          "role": "Station Architect",
+          "name": "Nina Patel",
+          "credentials": "AIA, Transit Architecture",
+          "walletAddress": "GNPHZSYMGNLDRQVPCCVWP7LJQJ4QWLYWVMHQXMQDML4PRQ",
+          "email": "n.patel@metro-design.com",
+          "avatar": "https://i.pravatar.cc/150?img=44"
+        },
+        {
+          "role": "General Contractor",
+          "name": "MetroBuild Consortium",
+          "credentials": "Transit Construction #MC-3366",
+          "walletAddress": "GMCHZSYMGNLDRQVPCCVWP7LJQJ4QWLYWVMHQXMQDML4PRQ",
+          "email": "contracts@metrobuild.com",
+          "avatar": "https://i.pravatar.cc/150?img=65"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80",
+          "caption": "Metro station architecture - modern design with natural lighting",
+          "uploadedBy": "Nina Patel",
+          "date": "2024-02-20"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1542202229-7d93c33f5d07?w=800&q=80",
+          "caption": "Tunnel excavation work - boring machine in operation",
+          "uploadedBy": "MetroBuild Consortium",
+          "date": "2024-04-18"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?w=800&q=80",
+          "caption": "Track laying progress - precision rail installation",
+          "uploadedBy": "Dr. Thomas Anderson",
+          "date": "2024-06-10"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80",
+          "caption": "Station construction - platform and accessibility features",
+          "uploadedBy": "Jennifer Lopez",
+          "date": "2024-08-25"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800&q=80",
+          "caption": "Modern metro train interior - passenger comfort and safety",
+          "uploadedBy": "MetroBuild Consortium",
+          "date": "2024-09-30"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1484600899469-230e8d1d59c0?w=800&q=80",
+          "caption": "Completed station with solar panels and smart ticketing system",
+          "uploadedBy": "Nina Patel",
+          "date": "2024-10-22"
+        }
+      ],
+      "milestones": [
+        {
+          "id": 25,
+          "project_id": 5,
+          "description": "Route Planning and Environmental Impact Study",
+          "amount": "1500000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2023-12-31",
+          "proof_url": "https://example.com/proof/25"
+        },
+        {
+          "id": 26,
+          "project_id": 5,
+          "description": "Tunnel Excavation and Track Laying - Phase 1",
+          "amount": "5500000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2024-06-30",
+          "proof_url": "https://example.com/proof/26"
+        },
+        {
+          "id": 27,
+          "project_id": 5,
+          "description": "Station Construction - 4 Stations",
+          "amount": "3000000",
+          "verifications_required": 3,
+          "verifications_received": 3,
+          "completed": true,
+          "target_date": "2024-09-30"
+        },
+        {
+          "id": 28,
+          "project_id": 5,
+          "description": "Electrical Systems and Signal Infrastructure",
+          "amount": "4000000",
+          "verifications_required": 3,
+          "verifications_received": 2,
+          "completed": false,
+          "target_date": "2024-12-31"
+        },
+        {
+          "id": 29,
+          "project_id": 5,
+          "description": "Station Construction - Remaining 4 Stations",
+          "amount": "5000000",
+          "verifications_required": 3,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-04-30"
+        },
+        {
+          "id": 30,
+          "project_id": 5,
+          "description": "Smart Ticketing System and Accessibility Features",
+          "amount": "3500000",
+          "verifications_required": 2,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-07-31"
+        },
+        {
+          "id": 31,
+          "project_id": 5,
+          "description": "Safety Testing and Line Commissioning",
+          "amount": "2500000",
+          "verifications_required": 3,
+          "verifications_received": 0,
+          "completed": false,
+          "target_date": "2025-09-30"
+        }
+      ]
+    }
+  ]
+}
