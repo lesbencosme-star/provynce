@@ -43,6 +43,9 @@ Cargo.lock
 # Soroban
 .soroban/
 
+# Archive files
+*.tar.gz
+
 # IDE
 .vscode/
 .idea/
