@@ -1,6 +1,6 @@
-# CityWorks: Real-Time Infrastructure Transparency on Stellar
+# Provynce: Real-Time Infrastructure Transparency on Stellar
 
-**CityWorks** is a blockchain-powered transparency platform that redefines how governments, engineers, and citizens track public infrastructure projects. Built entirely on the **Stellar network**, CityWorks automates milestone-based funding and real-time verification for public works — ensuring every dollar spent is **visible, verifiable, and accountable**.
+**Provynce** is a blockchain-powered transparency platform that redefines how governments, engineers, and citizens track public infrastructure projects. Built entirely on the **Stellar network**, CityWorks automates milestone-based funding and real-time verification for public works — ensuring every dollar spent is **visible, verifiable, and accountable**.
 
 ## Overview
 
